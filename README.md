@@ -50,9 +50,10 @@ expenses.
 Expense Velocity Slicers: Integrated interactive filtering matrices by operational categories (e.g.,
 procurement, utility expenses, logistics) to instantly uncover cost-saving opportunities.
 Dynamic Summary Cards: Designed high-visibility KPI indicator callouts highlighting real-time current
-liquidity ratio, burn rate, and available cash reserves.
+liquidity ratio, burn rate, and available cash reserves
+![Dashboard Preview](Cash%20Flow%20%26%20Expense%20Analysis.png)
 
-7. Strategic Conclusion
+8. Strategic Conclusion
 By merging foundational accounting principles with advanced technical business intelligence tools, this
 portfolio project showcases the capability to automate reporting cycles, eliminate data fragmentation, and
 deliver immediate analytical clarity. It demonstrates a ready capacity to take ownership of enterprise reporting
